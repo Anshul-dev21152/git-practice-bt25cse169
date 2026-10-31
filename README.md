@@ -5,7 +5,7 @@
 - **Name:** Anshul Chandurkar
 - **Roll number:** BT25CSE169
 - **Email:** bt25cse169@iiitn.ac.in
-- **Section:** [Add your section]
+- **Branch:** CSE
 
 ## Assignment description
 
